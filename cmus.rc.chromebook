@@ -1,0 +1,4 @@
+# Cmus file for a Chromebook.
+# Make sure pulseaudio is installed
+
+set output_plugin=pulse
